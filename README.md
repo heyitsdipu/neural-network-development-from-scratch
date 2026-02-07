@@ -21,7 +21,7 @@ The repository is organize following the course schedule, with each folder corre
   - Assignment 2: Deep nerual network application
 
 ## What you will learn
-- **week02/Assignment 2** Logistice regression with a neural network mindset. 
+- **week02/Assignment 2:** Logistice regression with a neural network mindset. 
 
 1. Build the general architecture of learning algorithm, including:
    * Intializing parameters
